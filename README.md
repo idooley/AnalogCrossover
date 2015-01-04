@@ -7,6 +7,7 @@ Some things you'll find in the repo:
 * PCB gerbers (both for the crossover circuit PCB and a corresponding dual-rail power supply)
 * Pictures of the results
 * LTSpice files for parts of the crossover design
+* Bill Of Materials containing DigiKey part numbers that I used in this DIY project
 
 ## Background
 The design is based off a design contained in Douglas Self's excellent book "The Design of Active Crossovers".
