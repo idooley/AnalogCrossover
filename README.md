@@ -8,7 +8,7 @@ The design is based off a design contained in Douglas Self's excellent book "The
 
 The nearly final product of this DIY product consists of these two working crossover/delay boards and their power supply:
 
-![](photos/crossover_boards.jpg =500x)
+![](./photos/crossover_boards.jpg)
 
 Now I just need to put these in an enclosure of some kind (and add those two missing fuses you may have noticed in the picture). After doing this I'll measure the frequency response and noise floor more carefully.
 
