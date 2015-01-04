@@ -6,6 +6,7 @@ Some things you'll find in the repo:
 * DipTrace schematic files and PCB layouts
 * PCB gerbers (both for the crossover circuit PCB and a corresponding dual-rail power supply)
 * Pictures of the results
+* LTSpice files for parts of the crossover design
 
 ## Background
 The design is based off a design contained in Douglas Self's excellent book "The Design of Active Crossovers".
