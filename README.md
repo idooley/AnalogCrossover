@@ -1,5 +1,11 @@
 ## Overview
-This repo contains some python code to help in selecting optimal capacitor and resistor values for a Sallen-Key topology active filter. Also some DipTrace schematics, PCB layouts, and gerbers are included (both for the crossover circuit PCB and a corresponding dual-rail power supply).
+This repo contains various things that were used to help in the design and building of an analog active crossover with delays.
+
+Some things you'll find in the repo:
+* python utilities for help in selecting optimal capacitor and resistor values for a Sallen-Key topology active filter
+* DipTrace schematic files and PCB layouts
+* PCB gerbers (both for the crossover circuit PCB and a corresponding dual-rail power supply)
+* Pictures of the results
 
 ## Background
 The design is based off a design contained in Douglas Self's excellent book "The Design of Active Crossovers".
