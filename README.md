@@ -13,7 +13,7 @@ Some things you'll find in the repo:
 ## Background
 The design is based off a design contained in <a href="http://www.amazon.com/Design-Active-Crossovers-Douglas-Self/dp/0240817389/ref=sr_1_3?ie=UTF8&qid=1420854829&sr=8-3&keywords=douglas+self">Douglas Self's excellent book "The Design of Active Crossovers"</a>.
 
-The crossover can use either the solid NE5532 opamps or 10x more expensive, and more modern, LM4562 opamps (or a combination of both).
+The crossover can use either the solid NE5532 opamps or 10x more expensive, and more modern, LM4562 opamps (or a combination of both). I chose to use the LM4562's for the input stage and NE5532's for the filter and delay stages.
  
 ## Isaac's DIY Project
 
